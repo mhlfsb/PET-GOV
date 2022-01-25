@@ -14,3 +14,5 @@ O PET-GOV almeja o incremento de parcerias entre órgãos de governo e institui�
 ## Publico Alvo
 
 Servidores Públicos com graduação completa, preferencialmente em áreas como Computação, Administração, Estatística, Engenharia de Produção, Economia etc.; Familiaridade com TIC; Ocupar cargo em nível de supervisão, gerência ou superior; apresentar perfil animado, com ideias de como contribuir para melhorar o serviço público. 
+
+Para mais informações consulte: https://fbln.me/pet-gov-ia/
