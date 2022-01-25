@@ -16,3 +16,9 @@ O PET-GOV almeja o incremento de parcerias entre órgãos de governo e institui�
 Servidores Públicos com graduação completa, preferencialmente em áreas como Computação, Administração, Estatística, Engenharia de Produção, Economia etc.; Familiaridade com TIC; Ocupar cargo em nível de supervisão, gerência ou superior; apresentar perfil animado, com ideias de como contribuir para melhorar o serviço público. 
 
 Para mais informações consulte: https://fbln.me/pet-gov-ia/
+
+1. LPIA - Linguagens de Programação para Inteligência Artificial (Profa. Patrícia + DSc. Maicon)
+2. IA - Inteligência Artificial (Prof. Fernando + MSc. Gabriel)
+3. AM - Aprendizado de Máquina (Prof. Madeiro + DSc. Flávio)
+4. MDPST - Mineração de dados e Processamento de Séries Temporais (Prof. Fábio + DSc. Rodrigo)
+5. OTDUIA - Otimização e tomada de decisão usando Inteligência Artificial (Prof. Fausto + MSc. Emilly)
